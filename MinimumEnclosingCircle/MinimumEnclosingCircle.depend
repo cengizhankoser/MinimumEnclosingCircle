@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605629368 source:c:\codeblocks\minimumenclosingcircle\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<sstream>
+	<math.h>
+	<time.h>
+
